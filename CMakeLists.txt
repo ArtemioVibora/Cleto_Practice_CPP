@@ -3,4 +3,5 @@ project(CPPFUNHOUSE)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CPPFUNHOUSE main.cpp)
+add_executable(CPPFUNHOUSE main.cpp
+)
