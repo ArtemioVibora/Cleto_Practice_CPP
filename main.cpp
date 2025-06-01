@@ -20,6 +20,10 @@ bool isEmpty(int last) {
     return false;
 }
 
+void addElement(ELEMENT_TYPE list, int data, int pos, int &last) {
+
+}
+
 
 
 
